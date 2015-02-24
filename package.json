@@ -1,0 +1,11 @@
+{
+  "name": "ellis",
+  "version": "1.0.0",
+  "description": "An SteamXIRC bot for CreepsUTrust PLC.",
+  "author": "Daemon Lee Schmidt <DaemonLeeSchmidt@gmail.com>",
+  "main": "index.js",
+  "dependencies": {
+    "irc-steam-relay": "DaemonLee/irc-steam-relay"
+  },
+  "license": "MIT"
+}
