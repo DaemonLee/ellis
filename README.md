@@ -1,2 +1,2 @@
 # ellis
-An SteamXIRC bot for CreepsUTrust PLC. 
+A SteamXIRC bot for CreepsUTrust PLC. 
